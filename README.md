@@ -15,22 +15,26 @@ I build fast, modern web and mobile applications using React, Node.js, and AI in
 `Node.js` `Express.js` `SQL` `MongoDB`
 
 **AI & Tools**
-`Prompt Engineering` `AI-Assisted Development` `Azure Speech API` `Figma` `Git`
+`Prompt Engineering` `AI-Assisted Development` `Gemini API` `Azure Speech API` `Figma` `Git`
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Full Stack Projects
 
-| Project | Description | Live |
-|---------|-------------|------|
-| Organick | Organic food e-commerce UI | [View](https://nahid788-coder.github.io/live-designs/organick/) |
-| Andia | Modern landing page | [View](https://nahid788-coder.github.io/live-designs/andia/) |
-| Babun | Responsive business site | [View](https://nahid788-coder.github.io/live-designs/babun/) |
-| Elegance | Fashion brand UI | [View](https://nahid788-coder.github.io/live-designs/elegance/) |
-| Pizza Restaurant | Restaurant website with menu | [View](https://nahid788-coder.github.io/live-designs/pizza/) |
-| MFurniro | Furniture store UI | [View](https://nahid788-coder.github.io/live-designs/mfurniro/) |
-| Nisuka | Creative portfolio UI | [View](https://nahid788-coder.github.io/live-designs/nisuka/) |
-| Studio People | Agency landing page | [View](https://nahid788-coder.github.io/live-designs/studio-people/) |
+| Project | Stack | Repo |
+|---------|-------|------|
+| TechZone – AI E-Commerce | PHP · MySQL · Gemini AI | [GitHub](https://github.com/Nahid788-coder/techzone-ecommerce) |
+| Food Grid – Food Ordering App | React · Node.js · MongoDB · Razorpay | [GitHub](https://github.com/Nahid788-coder/food-grid-app) |
+| Furniro – Furniture Store | React · Node.js · MongoDB | [GitHub](https://github.com/Nahid788-coder/furniro-ecommerce) |
+| Agriculture Webflow | React · Node.js · MongoDB | [GitHub](https://github.com/Nahid788-coder/agriculture-webflow) |
+| Babun E-Commerce | React · Node.js · MongoDB | [GitHub](https://github.com/Nahid788-coder/babun-ecommerce) |
+| Elegance Fashion Store | React · Node.js · MongoDB | [GitHub](https://github.com/Nahid788-coder/elegance-ecommerce) |
+| Nisuka Agency | React · Node.js | [GitHub](https://github.com/Nahid788-coder/nisuka-agency) |
+| Studio Agency | React · Node.js | [GitHub](https://github.com/Nahid788-coder/studio-agency) |
+
+## 🎨 UI Design Showcase
+
+8 responsive websites — [Live Demo](https://nahid788-coder.github.io/live-designs/)
 
 ---
 
@@ -42,4 +46,4 @@ I build fast, modern web and mobile applications using React, Node.js, and AI in
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahid788-coder&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nahid788-coder&show_icons=true&theme=tokyonight&count_private=true)
